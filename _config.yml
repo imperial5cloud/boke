@@ -91,11 +91,6 @@ classes:
  #  name: 架构师之路
 #  describe: 一个架构师的自我修养
 
- #-
- #  href: /jvm.html
- # name: Jvm系列文章
-# describe: Java之根基，Java程序员必学
-
 
 # ---------------- #
 #       RSS        #
@@ -128,17 +123,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: imperial5cloud
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: imperial5cloud
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: imperial5cloud
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
