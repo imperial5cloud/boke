@@ -127,15 +127,15 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: imperial5cloud
-    repo: blog-comments
+    repo: boke
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 98959fabdd9bd9e594ff
+        client_secret: c8fe5549a9646a7ef5d16b3e25d75ca490b267b8
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: imperial5cloud
-    repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    repo: boke
+    clientID: 98959fabdd9bd9e594ff
+    clientSecret: c8fe5549a9646a7ef5d16b3e25d75ca490b267b8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
